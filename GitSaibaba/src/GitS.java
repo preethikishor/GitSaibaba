@@ -5,7 +5,7 @@ public class GitS {
 		System.out.println("xxxxx uuuu moving ererer ghghh");
 		System.out.println("%%%% moving");
 		System.out.println("$$^^^^ moving");
-		
+		System.out.println("$$^^^^ 111  moving");
 		}
 
 }
